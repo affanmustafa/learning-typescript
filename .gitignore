@@ -1,2 +1,4 @@
 node_modules
 /typescript-fundamentals/app.js
+/typescript-fundamentals/*.js
+/typescript-fundamentals/dest/*.js
